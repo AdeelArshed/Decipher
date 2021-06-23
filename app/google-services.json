@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518169141741",
+    "project_id": "decipher-9e583",
+    "storage_bucket": "decipher-9e583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518169141741:android:4a8f225f8729cde33507e4",
+        "android_client_info": {
+          "package_name": "com.decipherllc.decipher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518169141741-6l94vtch66mm082rtn7cstmv9452qpie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi_67vAGg5_wAgjLK-3gAhaZGbOoM7uJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518169141741-6l94vtch66mm082rtn7cstmv9452qpie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
